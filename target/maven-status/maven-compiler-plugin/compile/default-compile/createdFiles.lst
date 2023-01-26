@@ -1,0 +1,10 @@
+com\example\springboottutorialdemo\exception\GlobalExceptionHandler.class
+com\example\springboottutorialdemo\service\StudentService.class
+com\example\springboottutorialdemo\repository\StudentRepository.class
+com\example\springboottutorialdemo\serviceImpl\StudentServiceImpl.class
+com\example\springboottutorialdemo\model\ErrorMessage.class
+com\example\springboottutorialdemo\controller\StudentController.class
+com\example\springboottutorialdemo\SpringBootTutorialDemoApplication.class
+com\example\springboottutorialdemo\controller\MessageController.class
+com\example\springboottutorialdemo\entity\StudentEntity.class
+com\example\springboottutorialdemo\exception\StudentNotFoundException.class
